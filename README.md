@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Mustafa  
 
-<!--
-**mustafacpp/mustafacpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Control & Automation Engineering Student  
+⚙️ Focused on LTI Control Systems Design & Programming  
+🧠 Exploring signal processing with radar data from Texas Instruments Radar Kits  
+🔩 Interested in embedded real-time control and STM32-based systems  
 
-Here are some ideas to get you started:
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mustafa-kabak-8bbb78351)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+C++ | STM32 (Bare-Metal) | MATLAB | Simulink | Python | PLC | OpenCV  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafacpp&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacpp&layout=compact&theme=radical)
